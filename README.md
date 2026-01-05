@@ -23,9 +23,6 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
 </div>
 
 ---
