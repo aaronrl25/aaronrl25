@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I’m Aaron</h1>
 
 <h3 align="center">
-Senior React Native Architect · Mobile & Web Engineer · Founder · Speaker
+Senior React Native Architect · Mobile & Web Engineer · community Builder · Speaker
 </h3>
 
 <p align="center">
