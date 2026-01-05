@@ -67,14 +67,7 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aaronrl25&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aaronrl25&theme=dracula&row=1&column=6" height="150" />
-</div>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronrl25/aaronrl25/output/pacman-contribution-graph-dark.svg">
