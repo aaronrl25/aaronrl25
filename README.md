@@ -13,8 +13,6 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" />
