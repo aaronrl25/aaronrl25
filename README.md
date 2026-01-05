@@ -56,7 +56,7 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
 ### 🔗 Let’s Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aaron-ramirez-lezama">
+  <a href="https://www.linkedin.com/in/aaronsoftware/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://aron.software">
