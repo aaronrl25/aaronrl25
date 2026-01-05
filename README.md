@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I’m Aaron</h1>
 
 <h3 align="center">
-Senior React Native Architect · Mobile & Web Engineer · community Builder · Speaker
+Senior React Native Architect · Mobile & Web Engineer · Founder · Speaker
 </h3>
 
 <p align="center">
@@ -23,30 +23,33 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
 </div>
 
 ---
 
 ### 🧠 About Me
 
-- 📍 Based in **Chicago, IL**
-- 💼 **Senior / Lead React Native Engineer**
-- 🏢 Worked with **Walmart, IBM, HCSC**
-- 🚀 Co-founder at **NearMinds** (nearshore dev)
-- 🎤 Speaker at meetups & conferences (ChicagoJS, Code & Coffee)
-- 🧪 Building MVPs, AI-powered products, and scalable mobile architectures
-- 🧩 10+ years in mobile & web engineering
+- 📍 Chicago, IL  
+- 💼 Senior / Lead React Native Engineer  
+- 🏢 Worked with **Walmart, IBM, HCSC**  
+- 🚀 Co-founder at **NearMinds** (nearshore dev)  
+- 🎤 Speaker at ChicagoJS, Code & Coffee  
+- 🧪 Building MVPs, AI-powered products & scalable architectures  
+- 🧩 10+ years in mobile & web engineering  
 
 ---
 
-### 🛠️ What I Do Best
+### 🛠️ Core Strengths
 
 - React Native architecture at scale  
 - Performance optimization & refactors  
 - Mobile CI/CD & testing strategies  
-- Firebase, GraphQL, REST integrations  
-- Leading teams & mentoring engineers  
-- Turning ideas into shipped products
+- Firebase, GraphQL, REST APIs  
+- Team leadership & mentoring  
+- Turning ideas into shipped products  
 
 ---
 
@@ -69,18 +72,18 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&row=1&column=6" height="150" />
+  <img src="https://streak-stats.demolab.com?user=aaronrl25&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaronrl25&theme=dracula&row=1&column=6" height="150" />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronrl25/aaronrl25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronrl25/aaronrl25/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/aaronrl25/aaronrl25/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-💡 *Always open to collaboration, consulting, and building cool things.*
+💡 Always open to collaboration, consulting, and building cool things.
