@@ -30,7 +30,6 @@ Building scalable mobile products, leading teams, and shipping real-world apps u
 
 ### 🧠 About Me
 
-- 📍 Chicago, IL  
 - 💼 Senior / Lead React Native Engineer  
 - 🏢 Worked with **Walmart, IBM, HCSC**  
 - 🚀 Co-founder at **NearMinds** (nearshore dev)  
